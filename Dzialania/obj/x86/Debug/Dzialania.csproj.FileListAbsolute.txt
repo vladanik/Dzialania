@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\bin\Debug\Dzialania.exe
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\bin\Debug\Dzialania.pdb
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.exe
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.pdb
+c:\users\student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.Form1.resources
+C:\Users\Student\documents\visual studio 2010\Projects\Dzialania\Dzialania\obj\x86\Debug\Dzialania.csprojResolveAssemblyReference.cache
